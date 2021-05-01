@@ -1,7 +1,7 @@
 # 6 Phase PWM for LED Driver (work in progress)
 
 ### 6 PWM channels that alternate in driver 6 LED driver, one at a time. As requested by an ST Community Member
-[]9https://community.st.com/s/question/0D53W00000iD4g9SAC/how-to-generate-6-phase-shifted-60-degrees-between-each-pwm-signals-on-stm32-nucleof334r8-stm32f334r8t6-or-other-)
+[](https://community.st.com/s/question/0D53W00000iD4g9SAC/how-to-generate-6-phase-shifted-60-degrees-between-each-pwm-signals-on-stm32-nucleof334r8-stm32f334r8t6-or-other-)
 
 
 ## Waveforms
